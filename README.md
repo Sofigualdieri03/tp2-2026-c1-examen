@@ -82,3 +82,4 @@ Si ya terminaste, o son las 10:00, asegurate de seguir los siguientes pasos para
 | GET | `/api/movies/winners` | — | No | Top 10 películas con más premios |
 | GET | `/api/movies/latest` | — | No | Las 5 películas más recientes |
 | GET | `/api/movies/:id` | `id` (ObjectId) | No | Detalle de una película |
+No se implementaron endpoints funcionales en la entrega actual debido a un inconveniente técnico puntual durante el desarrollo del examen.
